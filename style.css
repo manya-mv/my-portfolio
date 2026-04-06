@@ -107,7 +107,7 @@ nav a {
     text-align: left;
     color: white;
     background: transparent;
-    width: 420px;
+    width: 500px;
     
 } 
 
@@ -117,7 +117,7 @@ nav a {
     align-items: center;
     justify-content: space-between;
     padding: 0 10%;
-    font-size: 28px;
+    font-size: 23px;
 }
 
 .about-image {
